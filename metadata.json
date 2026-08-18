@@ -1,0 +1,6 @@
+{
+  "name": "Product Walkthrough Video Creator",
+  "description": "An interactive application to create product walkthrough videos with AI timeline breakdown, speed control options, and synchronized synthetic voiceover narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
